@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.f1174523.chunk.css",
-    "main.js": "./static/js/main.2117bf5e.chunk.js",
-    "main.js.map": "./static/js/main.2117bf5e.chunk.js.map",
+    "main.css": "./static/css/main.17cb822b.chunk.css",
+    "main.js": "./static/js/main.478188f2.chunk.js",
+    "main.js.map": "./static/js/main.478188f2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.533587a4.chunk.js": "./static/js/2.533587a4.chunk.js",
-    "static/js/2.533587a4.chunk.js.map": "./static/js/2.533587a4.chunk.js.map",
+    "static/css/2.eec0e34d.chunk.css": "./static/css/2.eec0e34d.chunk.css",
+    "static/js/2.0a8ac5c9.chunk.js": "./static/js/2.0a8ac5c9.chunk.js",
+    "static/js/2.0a8ac5c9.chunk.js.map": "./static/js/2.0a8ac5c9.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e76c931bf4cc3f802660a730250ab23a.js": "./precache-manifest.e76c931bf4cc3f802660a730250ab23a.js",
+    "precache-manifest.5e638564bb0723f92211b9b23286b8ad.js": "./precache-manifest.5e638564bb0723f92211b9b23286b8ad.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.f1174523.chunk.css.map": "./static/css/main.f1174523.chunk.css.map",
-    "static/js/2.533587a4.chunk.js.LICENSE.txt": "./static/js/2.533587a4.chunk.js.LICENSE.txt",
+    "static/css/2.eec0e34d.chunk.css.map": "./static/css/2.eec0e34d.chunk.css.map",
+    "static/css/main.17cb822b.chunk.css.map": "./static/css/main.17cb822b.chunk.css.map",
+    "static/js/2.0a8ac5c9.chunk.js.LICENSE.txt": "./static/js/2.0a8ac5c9.chunk.js.LICENSE.txt",
     "static/media/Footer.scss": "./static/media/BackTo.6da4f519.svg",
     "static/media/CardItem.scss": "./static/media/plus.d77d1038.svg",
     "static/media/fonts.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
+    "static/media/semantic.min.css": "./static/media/outline-icons.ef60a4f6.woff",
     "static/media/Slider.scss": "./static/media/btn-next.67be4a4a.svg",
     "static/media/PhoneSlider.scss": "./static/media/btn-noactive-prev.36f3b941.svg",
     "static/media/GoBack.scss": "./static/media/btn-prev.fa4626eb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.533587a4.chunk.js",
-    "static/css/main.f1174523.chunk.css",
-    "static/js/main.2117bf5e.chunk.js"
+    "static/css/2.eec0e34d.chunk.css",
+    "static/js/2.0a8ac5c9.chunk.js",
+    "static/css/main.17cb822b.chunk.css",
+    "static/js/main.478188f2.chunk.js"
   ]
 }
