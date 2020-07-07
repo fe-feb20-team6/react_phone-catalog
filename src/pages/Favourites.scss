@@ -1,0 +1,27 @@
+@import "../utils/vairables";
+
+.Favourites {
+  &__container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 40px;
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+    @media screen and (max-width: $desktop-breakpoint) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media screen and (max-width: $tablet-breakpoint) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media screen and (max-width: $phone-breakpoint) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__noproducts {
+    margin-top: 50px;
+    text-align: center;
+  }
+}
