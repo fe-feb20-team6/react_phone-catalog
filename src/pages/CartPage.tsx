@@ -28,11 +28,11 @@ export const CardPage = () => {
               <div className="Cart__noitems">
                 <h2>No items in cart</h2>
                 <Link to="/home">
-                  <button className="total__button" type="button">
+                  <button className="total__button" type="button" style={{ padding: '5px', marginTop: '20px' }}>
                     Back to shoping
                   </button>
                 </Link>
-                <img src="./img/no-cart-items.jpg" alt="empty Cart" />
+                <img src="./img/no-cart-items.jpg" alt="empty Cart" style={{ maxWidth: '100%' }} />
               </div>
             )
             : (
